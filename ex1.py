@@ -1,4 +1,4 @@
-#Coding:utf-8
+#coding:utf-8
 
 #练习一，用print 配合 冒号打印出字符串
 
