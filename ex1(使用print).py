@@ -1,6 +1,6 @@
 #coding:utf-8
 
-#练习一，用print 配合 冒号打印出字符串
+#练习一，使用print 配合 冒号打印出字符串
 
 print "Hello world"
 print "Hello world again"
